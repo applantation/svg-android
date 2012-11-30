@@ -13,7 +13,7 @@
  *limitations under the License.
  */
 
-package com.larvalabs.svgandroid;
+package com.applantation.android.svg;
 
 import java.util.HashMap;
 

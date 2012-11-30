@@ -1,4 +1,4 @@
-package com.larvalabs.svgandroid;
+package com.applantation.android.svg;
 
 /**
  * Runtime exception thrown when there is a problem parsing an SVG.

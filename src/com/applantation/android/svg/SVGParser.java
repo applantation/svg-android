@@ -13,7 +13,7 @@
  *Changes Copyright 2011 Google Inc.
  */
 
-package com.larvalabs.svgandroid;
+package com.applantation.android.svg;
 
 import android.content.res.AssetManager;
 import android.content.res.Resources;

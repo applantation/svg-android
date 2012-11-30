@@ -1,4 +1,4 @@
-package com.larvalabs.svgandroid;
+package com.applantation.android.svg;
 
 /*
 
