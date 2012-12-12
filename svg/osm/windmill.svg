@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="18.639999" height="18.639999" viewBox="0 0 480 480" id="symbol-windmill">
+  <metadata id="metadata6101">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6099" />
+  <g transform="matrix(0.35,0,0,0.35,184.83,155.415)" id="g6089">
+    <path d="M 106.7,148.2 210.7,147.2 271.7,480.2 40.7,479.2" id="path6091" style="fill:#000000" />
+    <path d="M 6.7,201 290.7,10" id="path6093" style="fill:none;stroke:#000000;stroke-width:24" />
+    <path d="M 19.7,17.5 309.7,193.5" id="path6095" style="fill:none;stroke:#000000;stroke-width:24" />
+  </g>
+</svg>
