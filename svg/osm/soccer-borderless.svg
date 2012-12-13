@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="46.599998" height="46.599998" viewBox="0 0 300 300" id="symbol-soccer-borderless">
-  <metadata id="metadata4769">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs id="defs4767" />
   <path d="M 150.67269,149.61814 C 150.67269,149.61814 141.92797,157.13132 140.04158,158.5555 138.1249,160.00258 137.08671,160.59219 135.54129,158.82079 134.01891,157.07583 135.31291,156.30441 136.75575,154.69667 138.16773,153.1233 147.04344,145.18238 147.04344,145.18238 L 150.67269,149.61814 z" id="path4755" />
   <path d="M 152.78974,151.89909 C 152.78974,151.89909 128.47273,181.84555 127.01955,183.76734 125.54651,185.7154 126.13548,186.84837 127.32865,187.77721 128.49453,188.68482 130.12636,188.46182 131.36699,186.91182 132.5863,185.38842 156.65971,155.29997 156.65971,155.29997 L 152.78974,151.89909 z" id="path4757" />
   <path d="M 155.2008,183.07107 A 4.9628311,5.0119095 0 1 1 145.27516,183.07107 4.9628311,5.0119095 0 1 1 155.2008,183.07107 z" id="path4759" style="fill:#000000" />

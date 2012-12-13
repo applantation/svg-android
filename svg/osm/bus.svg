@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="22.578194" height="9.0700006" viewBox="0 0 48.451061 19.463521" id="symbol-bus">
-  <metadata id="metadata6368">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <defs id="defs6366" />
   <g transform="matrix(0.6,0,0,0.6,9.6815574,3.7629304)" id="g6348">
     <path d="M 2.2521668,0.37432812 C 16.585501,0.37432812 30.918834,0.37432812 45.252168,0.37432812 46.592893,2.1772243 46.667746,4.5432519 47.253679,6.6448802 48.001475,9.9128849 48.575449,13.308664 48.133958,16.653558 47.718411,17.774772 46.389332,17.257357 45.477692,17.374328 31.069184,17.374328 16.660675,17.374328 2.2521668,17.374328 0.1627387,17.241819 0.20216614,14.642134 0.27115505,13.099409 0.25955278,9.4561569 0.11566321,5.8122204 0.23632812,2.1693926 0.45733372,1.2633806 1.2942196,0.4263214 2.2521668,0.37432812 z" id="path6350" style="fill:#0000ff;stroke:#000000;stroke-width:0.33102515" />
