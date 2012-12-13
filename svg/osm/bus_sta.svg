@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="20" height="20" viewBox="0 0 20 20" id="symbol-bus-station">
   <g transform="matrix(0.22863225,0,0,0.23866911,-60.524048,-156.57797)" id="g3353">
-    <a id="a3337">
       <g transform="matrix(0.466,0,0,0.466,295.1017,691.67072)" id="g2468">
         <path d="M 2.2521668,0.37432812 C 16.5855,0.37432812 30.918834,0.37432812 45.252168,0.37432812 46.355969,1.6734629 46.462793,3.586312 46.948398,5.196193 47.576853,8.2837404 48.414233,11.387465 48.252167,14.563593 48.236437,15.635583 48.542361,17.557849 46.939414,17.374328 32.043665,17.374328 17.147916,17.374328 2.2521668,17.374328 0.65875368,17.30455 0.27106428,15.753005 0.2698071,14.227706 0.29303084,10.212217 0.1028761,6.2414586 0.23632812,2.1693926 0.39484947,1.3347273 1.358163,0.37476685 2.2521668,0.37432812 z" id="path2470" style="fill:#0000ff;stroke:#000000;stroke-width:0.33102515" />
         <path d="M 38.812165,16.734328 C 38.920431,18.865451 36.087926,20.19296 34.514352,18.757021 32.815686,17.495237 33.558848,14.486315 35.653279,14.167433 37.225591,13.803144 38.854105,15.116219 38.812165,16.734328 z" id="path2472" style="fill:#0000ff;stroke:#ffffff;stroke-width:0.75587374" />
@@ -11,7 +10,6 @@
         <rect width="10" height="7.875" ry="0.60000002" x="1.9375" y="1.54375" id="rect2480" style="fill:#ffffff;stroke:#000000;stroke-width:0.34999999" />
         <rect width="10" height="7.875" ry="0.60000002" x="24.4375" y="1.55" id="rect2482" style="fill:#ffffff;stroke:#000000;stroke-width:0.34999999" />
       </g>
-    </a>
     <path d="M 304.19644,703.74609 A 11.5625,11.294642 0 1 1 281.07144,703.74609 11.5625,11.294642 0 1 1 304.19644,703.74609 z" transform="matrix(1.2520344,0,0,1.2342961,-60.040798,-172.70063)" id="path3305" style="fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
   </g>
 </svg>
