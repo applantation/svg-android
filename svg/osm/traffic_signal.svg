@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="18.639999" height="18.639999" viewBox="0 0 550 550" id="symbol-traffic_signal">
-  <g transform="matrix(0.3,0,0,0.3,241.235,195.055)" id="g6771">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="2.1564784" height="5.6662211" viewBox="0 0 63.629998 167.19001" id="symbol-traffic_signal">
+  <g transform="scale(0.3,0.3)" id="g6771">
     <path d="M 212.1,105 C 212.1,163 164.6,210 106.1,210 47.5,210 0.1,163 0.1,105 0,47 47.5,0 106,0 164.6,0 212.1,47 212.1,105 z" id="path6773" />
     <path d="M 212.1,452.3 C 212.1,510.3 164.6,557.3 106.1,557.3 47.5,557.3 0.1,510.3 0.1,452.3 0.1,394.3 47.6,347.3 106.1,347.3 164.6,347.3 212.1,394.3 212.1,452.3 z" id="path6775" />
     <path d="M 211.3,458.9 H 0 V 106.7 H 211.3 V 458.9 z" id="path6777" />
