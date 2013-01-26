@@ -1,9 +1,17 @@
 svg-android
 ===========
 
-SVG rendering on Android, based on code originally provided by larvalabs at https://code.google.com/p/svg-android/ and improved by the svg-android-2 project at http://code.google.com/p/svg-android-2/.
+SVG rendering on Android, based on code originally provided by larvalabs 
+at https://code.google.com/p/svg-android/ and 
+improved by the svg-android-2 project 
+at http://code.google.com/p/svg-android-2/.
 
-This code is, as before, licensed under the Apache 2.0 license, see COPYING for details.
+The jar can be built by importing the project into Eclipse, or otherwise just
+downloading the jar from the download directory.
+
+
+This code is, as before, licensed under the Apache 2.0 license, 
+see COPYING for details.
 
 This code now uses the KXML parsing library, under the BSD license:
 Copyright (c) 2002-2007 Stefan Haustein, Oberhausen, Rhld., Germany
